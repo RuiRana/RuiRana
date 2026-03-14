@@ -99,8 +99,21 @@ Spark, Hive, Kafka<br>
 - Utilised resources efficiently to optimize cloud costs and improve system performance.
 
 ### Projects
-- **Data Lake Implementation:** Created a secure data lake on AWS using S3, Glue, and Athena.
-- **ETL Automation:** Created a serverless ETL workflow using AWS Lambda and Step Functions.
+
+<details>
+  <summary><b>Data Lake Implementation</b></summary>
+ <div align="left">
+<p>Coming Soon, Created a secure data lake on AWS using S3, Glue, and Athena.</p>
+</div>
+</details>
+
+ <details>
+  <summary><b>ETL Automation</b></summary>
+ <div align="left">
+<p>Coming Soon, Created a serverless ETL workflow using AWS Lambda and Step Functions..</p>
+</div>
+</details>
+ 
 
 ### Contact Me
 <details>
