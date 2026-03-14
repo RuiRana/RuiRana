@@ -1,8 +1,15 @@
 ## 👋 Hi there welcome to Ruhail Rana GitHub Repository
-**Data Engineer | AWS Cloud Specialist**
 
 ### **About Me**
-Throughout my career, I have built scalable data pipelines, managed cloud infrastructures, and optimized data workflows to support business objectives.
+ <details>
+  <summary><b>My Profile</b></summary>
+ <div align="left">
+  <h4> <b>Data Engineer | AWS Cloud Specialist</b></h4>
+  <p> Having worked in various industries and sections for over 25 years, I have developed an in-depth understanding of many business environments, cultural dynamics, and operational challenges. I have built scalable data pipelines, managed cloud infrastructures, and optimized data workflows as part of my career. The program provides flexibility, innovative solutions, and a broad professional network that facilitates effective collaboration in globalized, complex environments. </p>
+</div>
+</details>
+
+
 
 ### **Skills**
 <details>
