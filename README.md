@@ -5,7 +5,11 @@
   <summary><b>My Profile</b></summary>
  <div align="left">
   <h4> <b>Data Engineer | AWS Cloud Specialist</b></h4>
-  <p> Having worked in various industries and sections for over 25 years, I have developed an in-depth understanding of many business environments, cultural dynamics, and operational challenges. I have built scalable data pipelines, managed cloud infrastructures, and optimized data workflows as part of my career. The program provides flexibility, innovative solutions, and a broad professional network that facilitates effective collaboration in globalized, complex environments. </p>
+  <p> I’m a senior leader with over 25 years of experience in education and the charity sector, specialising in strategic leadership, operations, and service transformation. I am currently developing hands-on expertise in cloud computing and AI, working on practical AWS and machine learning projects. My work includes building and deploying applications using services such as S3, Lambda, and Rekognition, as well as exploring data workflows and AI-driven solutions.
+
+I’m particularly interested in how cloud and AI technologies can be applied to solve real-world business problems and improve organisational performance.
+
+This GitHub portfolio documents my learning journey, practical implementations, and ongoing projects in AWS, data engineering, and machine learning.. </p>
 </div>
 </details>
 
