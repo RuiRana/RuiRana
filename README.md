@@ -140,6 +140,13 @@ I’m a senior leader with over 25 years of experience in education and the char
 Currently building hands-on expertise in <b>Cloud Computing</b> and <b>AI</b>, working on AWS-based projects and data-driven solutions.
 </p>
 
+I’m a senior leader with over 25 years of experience in education and the charity sector, specialising in strategic leadership, operations, and service transformation. I am currently developing hands-on expertise in cloud computing and AI, working on practical AWS and machine learning projects. My work includes building and deploying applications using services such as S3, Lambda, and Rekognition, as well as exploring data workflows and AI-driven solutions.
+
+I’m particularly interested in how cloud and AI technologies can be applied to solve real-world business problems and improve organisational performance.
+
+This GitHub portfolio documents my learning journey, practical implementations, and ongoing projects in AWS, data engineering, and machine learning..
+
+
 ---
 
 <h2>🛠️ Technical Skills</h2>
