@@ -15,7 +15,7 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 
 
 
-### **Skills**
+### **Technical Skills**
 <details>
   <summary><b>Data Engineering</b></summary>
   <div align="left">
@@ -69,6 +69,20 @@ This GitHub portfolio documents my learning journey, practical implementations, 
   <summary><b>Version Control</b></summary>
   <div align="left">
     Git, GitHub, GitLab
+  </div>
+</details>
+
+<details>
+  <summary><b>Leadership & Strategic Skills</b></summary>
+  <div align="left">
+    • Strategic leadership and organisational transformation<br>
+    • Operational management and service delivery<br>
+    • Stakeholder engagement and partnership development<br>
+    • Curriculum design and digital programme leadership<br>
+    • Data-informed decision making and performance improvement<br>
+    • Change management and continuous improvement<br>
+    • Team leadership, coaching, and staff development<br>
+    • Budget oversight and resource management
   </div>
 </details>
 
