@@ -72,19 +72,6 @@ This GitHub portfolio documents my learning journey, practical implementations, 
   </div>
 </details>
 
-<details>
-  <summary><b>Leadership & Strategic Skills</b></summary>
-  <div align="left">
-    • Strategic leadership and organisational transformation<br>
-    • Operational management and service delivery<br>
-    • Stakeholder engagement and partnership development<br>
-    • Curriculum design and digital programme leadership<br>
-    • Data-informed decision making and performance improvement<br>
-    • Change management and continuous improvement<br>
-    • Team leadership, coaching, and staff development<br>
-    • Budget oversight and resource management
-  </div>
-</details>
 
 ### Experience
 
@@ -101,6 +88,24 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 <p>Coming Soon, Created a secure data lake on AWS using S3, Glue, and Athena.</p>
 </div>
 </details>
+
+### **Leadership Skills**
+
+<details>
+  <summary><b>Leadership & Strategic Skills</b></summary>
+  <div align="left">
+    • Strategic leadership and organisational transformation<br>
+    • Operational management and service delivery<br>
+    • Stakeholder engagement and partnership development<br>
+    • Curriculum design and digital programme leadership<br>
+    • Data-informed decision making and performance improvement<br>
+    • Change management and continuous improvement<br>
+    • Team leadership, coaching, and staff development<br>
+    • Budget oversight and resource management
+  </div>
+</details>
+
+
 
  <details>
   <summary><b>ETL Automation</b></summary>
