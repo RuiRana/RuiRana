@@ -89,6 +89,14 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 </div>
 </details>
 
+<details>
+  <summary><b>ETL Automation</b></summary>
+ <div align="left">
+<p>Coming Soon, Created a serverless ETL workflow using AWS Lambda and Step Functions..</p>
+</div>
+</details>
+
+
 ### **Leadership Skills**
 
 <details>
@@ -105,15 +113,6 @@ This GitHub portfolio documents my learning journey, practical implementations, 
   </div>
 </details>
 
-
-
- <details>
-  <summary><b>ETL Automation</b></summary>
- <div align="left">
-<p>Coming Soon, Created a serverless ETL workflow using AWS Lambda and Step Functions..</p>
-</div>
-</details>
- 
 
 ### Contact Me
 <details>
