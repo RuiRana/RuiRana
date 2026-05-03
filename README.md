@@ -72,16 +72,12 @@ This GitHub portfolio documents my learning journey, practical implementations, 
   </div>
 </details>
 
-
-
- 
-
-
-
 ### Experience
-- Implemented real-time and batch data pipelines.
-- Managed AWS infrastructure to support large-scale data operations.
-- Utilised resources efficiently to optimize cloud costs and improve system performance.
+
+- Developed and tested data workflows through hands-on AWS and data engineering projects
+- Built and deployed applications using AWS services including S3, Lambda, and Rekognition
+- Explored cloud solutions with a focus on performance, cost awareness, and scalability
+- Utilised AI tools to support development, automation, and problem-solving
 
 ### Projects
 
