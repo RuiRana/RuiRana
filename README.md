@@ -1,128 +1,6 @@
 ## 👋 Hi there welcome to Ruhail Rana GitHub Repository
 
-### **About Me**
- <details>
-  <summary><b>My Profile</b></summary>
- <div align="left">
-  <h4> <b>Head of Digital Curriculum & Strategy | Cloud & AI Focus | AWS & Machine Learning Projects</b></h4>
-  <p> I’m a senior leader with over 25 years of experience in education and the charity sector, specialising in strategic leadership, operations, and service transformation. I am currently developing hands-on expertise in cloud computing and AI, working on practical AWS and machine learning projects. My work includes building and deploying applications using services such as S3, Lambda, and Rekognition, as well as exploring data workflows and AI-driven solutions.
 
-I’m particularly interested in how cloud and AI technologies can be applied to solve real-world business problems and improve organisational performance.
-
-This GitHub portfolio documents my learning journey, practical implementations, and ongoing projects in AWS, data engineering, and machine learning.. </p>
-</div>
-</details>
-
-
-
-### **Technical Skills**
-<details>
-  <summary><b>Data Engineering</b></summary>
-  <div align="left">
-    ETL Pipelines, Data Modelling, Data Warehousing
-  </div>
-</details>
-
-<details>
-  <summary><b>Cloud Services</b></summary>
-  <div align="left">
-    AWS (S3, Lambda, Rekognition, EC2, IAM, RDS), Microsoft Azure, Cloudflare
-  </div>
-</details>
-
-<details>
-  <summary><b>AI Assistants & LLM Tools</b></summary>
-  <div align="left">
-    Microsoft Copilot, GitHub Copilot, ChatGPT, Google Gemini, Claude
-  </div>
-</details>
-
-<details>
-  <summary><b>Big Data Tools</b></summary>
-  <div align="left">
-    Apache Spark (Projects), Apache Hive (Hands-on Labs)
-  </div>
-</details>
-
-<details>
-  <summary><b>Programming & Scripting</b></summary>
-  <div align="left">
-    Python, JavaScript
-  </div>
-</details>
-
-<details>
-  <summary><b>Databases and Data Access</b></summary>
-  <div align="left">
-    SQL Server, MySQL
-  </div>
-</details>
-
-<details>
-  <summary><b>Client Technologies</b></summary>
-  <div align="left">
-    HTML, CSS, Sass
-  </div>
-</details>
-
-<details>
-  <summary><b>Version Control</b></summary>
-  <div align="left">
-    Git, GitHub, GitLab
-  </div>
-</details>
-
-
-### Experience
-
-- Developed and tested data workflows through hands-on AWS and data engineering projects
-- Built and deployed applications using AWS services including S3, Lambda, and Rekognition
-- Explored cloud solutions with a focus on performance, cost awareness, and scalability
-- Utilised AI tools to support development, automation, and problem-solving
-
-### Projects
-<details>
-  <summary><b>Data Lake Implementation</b></summary>
- <div align="left">
-<p>Coming Soon, Created a secure data lake on AWS using S3, Glue, and Athena.</p>
-</div>
-</details>
-
-<details>
-  <summary><b>ETL Automation</b></summary>
- <div align="left">
-<p>Coming Soon, Created a serverless ETL workflow using AWS Lambda and Step Functions..</p>
-</div>
-</details>
-
-### **Leadership Skills**
-
-<details>
-  <summary><b>Leadership & Strategic Skills</b></summary>
-  <div align="left">
-    • Strategic leadership and organisational transformation<br>
-    • Operational management and service delivery<br>
-    • Stakeholder engagement and partnership development<br>
-    • Curriculum design and digital programme leadership<br>
-    • Data-informed decision making and performance improvement<br>
-    • Change management and continuous improvement<br>
-    • Team leadership, coaching, and staff development<br>
-    • Budget oversight and resource management
-  </div>
-</details>
-
-
-### Contact Me
-<details>
-  <summary><b>LinkedIn</b></summary>
- <div align="left">
-<a href="https://www.linkedin.com/in/ruhailrana/" target="_blank">
- <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="80px">
-</a>
-      <br/>
-Feel free to connect and collaborate!
-</div>
-</details>
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -207,7 +85,7 @@ Git • GitHub • GitLab
 <b>🔹 Data Lake Implementation</b>  
 <i>Coming Soon</i> – Secure AWS data lake using S3, Glue, and Athena  
 
-<br><br>
+<br>
 
 <b>🔹 ETL Automation</b>  
 <i>Coming Soon</i> – Serverless ETL workflow using AWS Lambda and Step Functions  
