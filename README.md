@@ -107,7 +107,7 @@ Git • GitHub • GitLab
 <h2>📬 Contact</h2>
 
 <p>
-🔗 <a href="YOUR-LINKEDIN-HERE">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/ruhailrana/">LinkedIn</a>
 </p>
 
 
