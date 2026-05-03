@@ -1,6 +1,3 @@
-## 👋 Hi there welcome to Ruhail Rana GitHub Repository
-
-
 
 <h2 align="center">🚀 About Me</h2>
 
