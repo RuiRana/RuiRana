@@ -126,7 +126,117 @@ Feel free to connect and collaborate!
 </div>
 </details>
 
+<h2 align="center">🚀 About Me</h2>
 
+<p align="center">
+<b>Head of Digital Curriculum & Strategy | Cloud & AI Focus | AWS & Machine Learning Projects</b>
+</p>
+
+<p>
+I’m a senior leader with over 25 years of experience in education and the charity sector, specialising in strategic leadership, operations, and service transformation.
+</p>
+
+<p>
+Currently building hands-on expertise in <b>Cloud Computing</b> and <b>AI</b>, working on AWS-based projects and data-driven solutions.
+</p>
+
+---
+
+<h2>🛠️ Technical Skills</h2>
+
+<details>
+<summary><b>📊 Data Engineering</b></summary>
+<br>
+ETL Pipelines • Data Modelling • Data Warehousing
+</details>
+
+<details>
+<summary><b>☁️ Cloud Services</b></summary>
+<br>
+AWS (S3, Lambda, Rekognition, EC2, IAM, RDS) • Azure • Cloudflare
+</details>
+
+<details>
+<summary><b>🤖 AI & LLM Tools</b></summary>
+<br>
+ChatGPT • Google Gemini • Claude • Microsoft Copilot • GitHub Copilot
+</details>
+
+<details>
+<summary><b>⚡ Big Data Tools</b></summary>
+<br>
+Apache Spark (Projects) • Apache Hive (Hands-on Labs)
+</details>
+
+<details>
+<summary><b>💻 Programming</b></summary>
+<br>
+Python • JavaScript
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+SQL Server • MySQL
+</details>
+
+<details>
+<summary><b>🎨 Client Technologies</b></summary>
+<br>
+HTML • CSS • Sass
+</details>
+
+<details>
+<summary><b>🔧 Version Control</b></summary>
+<br>
+Git • GitHub • GitLab
+</details>
+
+---
+
+<h2>📈 Experience</h2>
+
+<ul>
+<li>Developed and tested data workflows through hands-on AWS and data engineering projects</li>
+<li>Built and deployed applications using AWS services including S3, Lambda, and Rekognition</li>
+<li>Explored cloud solutions focusing on performance, cost optimisation, and scalability</li>
+<li>Utilised AI tools to support development, automation, and problem-solving</li>
+</ul>
+
+---
+
+<h2>📂 Projects</h2>
+
+<b>🔹 Data Lake Implementation</b>  
+<i>Coming Soon</i> – Secure AWS data lake using S3, Glue, and Athena  
+
+<br><br>
+
+<b>🔹 ETL Automation</b>  
+<i>Coming Soon</i> – Serverless ETL workflow using AWS Lambda and Step Functions  
+
+---
+
+<h2 style="color:#002366;">🧠 Leadership & Strategic Skills</h2>
+
+<ul>
+<li>Strategic leadership and organisational transformation</li>
+<li>Operational management and service delivery</li>
+<li>Stakeholder engagement and partnership development</li>
+<li>Curriculum design and digital programme leadership</li>
+<li>Data-informed decision making and performance improvement</li>
+<li>Change management and continuous improvement</li>
+<li>Team leadership, coaching, and staff development</li>
+<li>Budget oversight and resource management</li>
+</ul>
+
+---
+
+<h2>📬 Contact</h2>
+
+<p>
+🔗 <a href="YOUR-LINKEDIN-HERE">LinkedIn</a>
+</p>
 
 
 
