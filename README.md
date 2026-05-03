@@ -81,7 +81,6 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 - Utilised AI tools to support development, automation, and problem-solving
 
 ### Projects
-
 <details>
   <summary><b>Data Lake Implementation</b></summary>
  <div align="left">
@@ -95,7 +94,6 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 <p>Coming Soon, Created a serverless ETL workflow using AWS Lambda and Step Functions..</p>
 </div>
 </details>
-
 
 ### **Leadership Skills**
 
