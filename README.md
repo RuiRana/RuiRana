@@ -17,11 +17,10 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 <h2>🛠️ Technical Skills</h2>
 
 <div class="skill-card">
-<h3>Technical Skills</h3>
 <ul>
+<li><strong>AI &amp; LLM Tools:</strong> ChatGPT, Google Gemini, Claude, Microsoft Copilot, GitHub Copilot</li>
 <li><strong>Data Engineering:</strong> ETL Pipelines, Data Modelling, Data Warehousing</li>
 <li><strong>Cloud:</strong> AWS (S3, Lambda, Rekognition, EC2, IAM, RDS), Cloudflare</li>
-<li><strong>AI &amp; LLM Tools:</strong> ChatGPT, Google Gemini, Claude, Microsoft Copilot, GitHub Copilot</li>
 <li><strong>Big Data:</strong> Apache Spark (projects), Apache Hive (hands-on labs)</li>
 <li><strong>Programming:</strong> Python, JavaScript</li>
 <li><strong>Databases:</strong> SQL Server, MySQL</li>
