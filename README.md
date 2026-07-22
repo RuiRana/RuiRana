@@ -64,6 +64,21 @@ HTML • CSS • Sass
 Git • GitHub • GitLab
 </details>
 
+<div class="skill-card">
+<h3>Technical Skills</h3>
+<ul>
+<li><strong>Data Engineering:</strong> ETL Pipelines, Data Modelling, Data Warehousing</li>
+<li><strong>Cloud:</strong> AWS (S3, Lambda, Rekognition, EC2, IAM, RDS), Cloudflare</li>
+<li><strong>AI &amp; LLM Tools:</strong> ChatGPT, Google Gemini, Claude, Microsoft Copilot, GitHub Copilot</li>
+<li><strong>Big Data:</strong> Apache Spark (projects), Apache Hive (hands-on labs)</li>
+<li><strong>Programming:</strong> Python, JavaScript</li>
+<li><strong>Databases:</strong> SQL Server, MySQL</li>
+<li><strong>Front-End:</strong> HTML, CSS, Sass</li>
+<li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
+</ul>
+</div>
+
+
 ---
 
 <h2>📈 Experience</h2>
