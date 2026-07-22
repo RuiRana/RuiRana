@@ -16,54 +16,6 @@ This GitHub portfolio documents my learning journey, practical implementations, 
 
 <h2>🛠️ Technical Skills</h2>
 
-<details>
-<summary><b>📊 Data Engineering</b></summary>
-<br>
-ETL Pipelines • Data Modelling • Data Warehousing
-</details>
-
-<details>
-<summary><b>☁️ Cloud Services</b></summary>
-<br>
-AWS (S3, Lambda, Rekognition, EC2, IAM, RDS) • Azure • Cloudflare
-</details>
-
-<details>
-<summary><b>🤖 AI & LLM Tools</b></summary>
-<br>
-ChatGPT • Google Gemini • Claude • Microsoft Copilot • GitHub Copilot
-</details>
-
-<details>
-<summary><b>⚡ Big Data Tools</b></summary>
-<br>
-Apache Spark (Projects) • Apache Hive (Hands-on Labs)
-</details>
-
-<details>
-<summary><b>💻 Programming</b></summary>
-<br>
-Python • JavaScript
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-SQL Server • MySQL
-</details>
-
-<details>
-<summary><b>🎨 Client Technologies</b></summary>
-<br>
-HTML • CSS • Sass
-</details>
-
-<details>
-<summary><b>🔧 Version Control</b></summary>
-<br>
-Git • GitHub • GitLab
-</details>
-
 <div class="skill-card">
 <h3>Technical Skills</h3>
 <ul>
